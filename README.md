@@ -32,10 +32,3 @@ CS student @ **MTA – Academic College of Tel Aviv-Yaffo** | Building with **Py
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adi0258&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adi0258&layout=compact&theme=tokyonight&hide_border=true)
