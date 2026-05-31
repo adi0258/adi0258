@@ -16,7 +16,7 @@ CS student @ **MTA – Academic College of Tel Aviv-Yaffo** | Building with **Py
 | [🎓 AccessibleAcademic](https://github.com/adi0258/AccessibleAcademic) | AI platform that turns lecture recordings into accessible study materials — transcription, summaries & flashcards. Built for students with hearing impairments. | Python · FastAPI · GPT-4o · AssemblyAI |
 | [🤝 Study-Buddy](https://github.com/adi0258/Study-Buddy) | Web/mobile app that matches students by course, availability and learning style for smarter study sessions. | React · JavaScript · Node.js |
 | [🤖 EranBot](https://github.com/adi0258/EranBot) | Python AI chatbot for mental health support — detects distress keywords and connects users to crisis resources. | Python · Tkinter · NLP |
-[🚗 Magic Wheel](https://github.com/adi0258/Magic-Wheel) | Interactive hardware-software game teaching Arabic-speaking kindergarteners basic Hebrew words via a physical Arduino steering wheel. **[Live demo ↗](https://magic-wheel-two.vercel.app/)** | Arduino · JavaScript · HTML/CSS |
+[🚗 Magic Wheel](https://github.com/adi0258/MagicWheel) | Interactive hardware-software game teaching Arabic-speaking kindergarteners basic Hebrew words via a physical Arduino steering wheel. **[Live demo ↗](https://magic-wheel-two.vercel.app/)** | Arduino · JavaScript · HTML/CSS |
 ---
 
 ## 🛠️ Tech Stack
